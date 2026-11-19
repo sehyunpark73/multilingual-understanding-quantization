@@ -9,7 +9,7 @@ from transformers import PreTrainedModel
 
 from utils.paths import make_result_name
 
-REPO_NAME = "s4986p/multilingual-understanding-quantization"
+REPO_NAME = "sehyunpark73/multilingual-understanding-quantization"
 
 
 def upload_file(
