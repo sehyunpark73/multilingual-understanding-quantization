@@ -1,5 +1,7 @@
 # multilingual understanding quantization
 
+최신: https://github.com/sehyunpark73/multilingual-reasoning-quantization
+
 ## 배경
 - 모델은 대부분 영어로 사전 학습되어, 양자화하면 영어 외 언어에서 더 잃을 수 있음
 - 이 프로젝트는 [관련 연구](#관련-연구)와 달리 thinking mode를 켜고 여러 양자화 방법으로 손실을 다시 확인
